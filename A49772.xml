@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief answer to three books, one by John Faldo, called an Independent, and two by Thomas Hicks a Baptist, put forth against the people called Quakers wherein the Presbyters, (Inde)pendents, and Baptists, though they differ among themselves, yet like Herod, Pontius Pilate, Judas, and the Jews are all joyn'd against the truth : but that which is not of God, shall not stand.</title>
+            <author>Lawrence, Thomas, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49772</idno>
+            <idno type="STC">Wing L683</idno>
+            <idno type="STC">ESTC R7733</idno>
+            <idno type="EEBO-CITATION">13102079</idno>
+            <idno type="OCLC">ocm 13102079</idno>
+            <idno type="VID">97424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief answer to three books, one by John Faldo, called an Independent, and two by Thomas Hicks a Baptist, put forth against the people called Quakers wherein the Presbyters, (Inde)pendents, and Baptists, though they differ among themselves, yet like Herod, Pontius Pilate, Judas, and the Jews are all joyn'd against the truth : but that which is not of God, shall not stand.</title>
+                  <author>Lawrence, Thomas, 1645?-1714.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1673?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint date from NUC pre-1956.</note>
+                  <note>Signed on p. 7: Thomas Lawrence.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faldo, John, 1633-1690. --  Quakerism no Christianity.</term>
+               <term>Hicks, Thomas, 17th cent. --  Dialogue between a Christian and a Quaker.</term>
+               <term>Hicks, Thomas, 17th cent. --  Continuation of The dialogue between a Christian and a Quaker.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97424:1"/>
+            <head>A BRIEF ANSWER TO THREE BOOKS, ONE By <hi>John Faldo,</hi> called an <hi>Independent,</hi> and <hi>Two</hi> by <hi>Thomas Hicks,</hi> a <hi>Baptiſt,</hi> put forth againſt the People called <hi>Q<g ref="char:V">Ʋ</g>AKERS.</hi> Wherein the <hi>Presbyters, (Inde) pendents,</hi> and <hi>Baptiſts,</hi> though they differ among Themſelves, yet like <hi>Herod, Pon<g ref="char:EOLhyphen"/>tius Pilate, Judas,</hi> and the <hi>Jews</hi> are all joyn'd againſt the <hi>Truth. But that which is not of God, ſhall not Stand.</hi>
+            </head>
+            <p>WHen I intended to go my Journey, I met with a Book given forth by One <hi>John Faldo</hi> againſt the <hi>Quakers.</hi> I do not know what this <hi>John Faldo</hi> is, nor where he dwells, nor never heard of his Name before: but I know, he is like <hi>Thomas Hicks,</hi> that Wrote the <hi>Dialogue.</hi> Yet I do not know <hi>Thomas Hicks</hi> neither; but I know they are alike, they are both Mockers; themſelves proves it in their <hi>Title</hi>-pages, and throughout their Books. They call names, as <hi>Quaker,</hi> and <hi>Quakeriſm,</hi> gone from Scripture-words; and yet call the Scripture their <hi>Rule. Herod</hi> and <hi>Pilate</hi> were made Friends; yet did deſpiſe and mock Chriſt the Head; and theſe Two mock and make Lyes againſt his Members: their Books declare it. I cannot tell, which was <hi>firſt</hi> in the <hi>Lyes?</hi> but I can tell, who is the <hi>Father</hi> of <hi>Lyes,</hi> the <hi>Devil. He abode not in the
+<pb n="2" facs="tcp:97424:2"/>
+Truth,</hi> neither do theſe <hi>Two</hi> Perſpicuity and Brevity are two chief Points in <hi>Oratory;</hi> but theſe <hi>Two</hi> ſuppoſed great <hi>Ora<g ref="char:EOLhyphen"/>tors</hi> have neither. When They Treat on a <hi>ſubject,</hi> their <hi>Porch</hi> is bigger then the <hi>Houſe:</hi> they are ſo long and tedious, like the <hi>Orator,</hi> when his Glaſs was near run out ſaid; <hi>Now to the Mat<g ref="char:EOLhyphen"/>ter.</hi> They are in the many <hi>Words, Digreſſions,</hi> and <hi>Diſtinctions</hi> that they loſe themſelves and <hi>Reader</hi> alſo, except he abide in the Light. For <hi>Example:</hi>
+            </p>
+            <p>
+               <hi>J. Faldo</hi> ſpends <hi>an Hundred and Nineteen</hi> pages to prove, <hi>That Quakers deny the Scriptures;</hi> and hath not prov'd it neither: but runs begging after the <hi>Quakers, that they would prove the Contrary.</hi> pag. 26, 27. And when he hath travelled to pag. 37. ſaith, <hi>Now to clench the Nail, I have been driving hitherto.</hi> I purſued him to pag. 130. to find the Nail clenched, but could not: ſo I left my Purſuit. Yet he ſaith; <hi>If one, or all theſe Arguments together will not prove, what I have brought them to confirm, I will forever deſpair to prove any thing.</hi>
+            </p>
+            <p>When <hi>T. Hicks</hi> and <hi>J. Faldo</hi> ſaith, <hi>The Scriptures are the Word of God, and Rule of Faith.</hi> They run into Thickets of Words, but here they have no ſhelter; for all people do, or may know, <hi>That</hi> Quakers <hi>do own S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptures,</hi> and have, and do daily diſ-prove their falſe Doctrines by plain Scripture words.</p>
+            <p>
+               <hi>J. Faldo</hi> ſaith in the <hi>Second part</hi> of his Book, <hi>That</hi> Quakers <hi>deny all Goſpel Ordinances. Anſw.</hi> They deny none, but ſuch, as the <hi>falſe Churches</hi> do practice in their own wills without the Spi<g ref="char:EOLhyphen"/>rit, Life and Power.</p>
+            <p n="1">1. In Particular he ſaith, <hi>They deny the Miniſtery and Min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters of the Goſpel. Anſw. Quakers</hi> deny no <hi>Miniſtry,</hi> that is <hi>true;</hi> nor no <hi>Miniſters,</hi> that are ſent of God.</p>
+            <p n="2">2. He ſaith, Quakers <hi>deny the Goſpel-Church. Anſw. Qua<g ref="char:EOLhyphen"/>kers</hi> own that <hi>Church which is in the Living God, the Ground, and Pil<g ref="char:EOLhyphen"/>lar of Truth:</hi> but do deny all that ſay, <hi>They are a true Church,</hi> and are not, but are the <hi>Synagogue of Satan.</hi>
+            </p>
+            <p n="3">3. <hi>J. Faldo</hi> ſaith, Quakers <hi>deny the Ordinance of Hearing the Word preached. Anſw.</hi> Bluſh for ſhame: doſt thou not know, they go ſometimes many Miles, and many hundreds at a time; but thou goeſt not to hear <hi>Truth</hi> thy ſelf; but hindreſt as many as thou canſt, and wiſheſt, as in thy <hi>Preface, That many Thou<g ref="char:EOLhyphen"/>ſand of ſmall pieces of four or five ſheets were printed, and ſold at a cheap rate, to diſcover the</hi> Quakers <hi>Principles.</hi> But that would diſcover and hurt thy Cauſe.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:97424:2"/>4. Quakers <hi>deny Goſpel-prayer. Anſw.</hi> They do own and practiſe <hi>Prayer,</hi> and <hi>Thanks-giving</hi> at meals, in Families, and elſe-where.</p>
+            <p n="5">5. Quakers <hi>deny the Ordinance of Reading the Scriptures. Anſw.</hi> They ſay, <hi>Reading</hi> and other holy <hi>Duties</hi> are to be performed in Families: and ſeveral have been convinced by <hi>Reading Quakers</hi> Books, before ever they heard a <hi>Miniſter.</hi>
+            </p>
+            <p n="6">6. Quakers <hi>deny Water-Baptiſm and the Lords Supper. Anſw.</hi> When the <hi>Subſtance</hi> is come, and enjoyed, the <hi>ſhaddows</hi> fly away. — Theſe <hi>Charges</hi> againſt the <hi>Quakers</hi> are all falſe; and ſo are ma<g ref="char:EOLhyphen"/>ny more in <hi>J. Faldo</hi>'s Book.</p>
+            <p>Pag. 8. he ſaith, Quakers <hi>preach a Chriſt within, in Oppoſition to a Chriſt without. Anſw.</hi> We feel, taſte, and handle Chriſt within our <hi>Hope</hi> of <hi>Glory:</hi> he is but one, and not divided. And ſo a wick<g ref="char:EOLhyphen"/>ed Slander to ſay, <hi>we oppoſe Chriſt without.</hi>
+            </p>
+            <p>Pag. 10. He ſaith, <hi>They decry the Scriptures of the Old, and New Teſtament as altogether needleſs, if not Miſchievous. Anſw.</hi> We believe and read the Holy Scriptures to our Profit and Comfort, being come to the ſame Spirit, by which they were given forth, and is the <hi>Interpreter</hi> of them.</p>
+            <p>Pag. 40. <hi>The</hi> Quakers <hi>equalize their Writings, and Sayings with the Scriptures, and prefer them above them. Anſw.</hi> They ſet the Scriptures in their place; but neither ſet them nor their Writ<g ref="char:EOLhyphen"/>ings above the Spirit, as ye do.</p>
+            <p>Many more might be noted; but this is enough. — I do ad<g ref="char:EOLhyphen"/>mire, that ever a Man ſo <hi>Learned,</hi> as <hi>J. Faldo</hi> is, ſhould ſo fail in his <hi>Learning, Senſes</hi> and <hi>Reaſon,</hi> to charge ſo deſperately, and perform ſo weakly. For I cannot find any <hi>Errors</hi> in the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> words, that <hi>J. Faldo</hi> hath cited; nor <hi>Strength</hi> in his Argu<g ref="char:EOLhyphen"/>ments to prove any.</p>
+            <p>
+               <hi>J. Faldo</hi> in the <hi>Third part</hi> of his Book concerning <hi>Apostolical In<g ref="char:EOLhyphen"/>ſpirations</hi> hath many <hi>Diſtinctions and Differences</hi> between the <hi>Spirit which the Apoſtles had,</hi> and the <hi>Spirit that Believers now have:</hi> But he is neither brief, nor plain; but endeavours in many pages to manifeſt ſome great matter; but his <hi>diſtinctions,</hi> and <hi>differences</hi> are not in <hi>Subſtance,</hi> but in <hi>Circumſtances;</hi> not differing in <hi>Truth</hi> and <hi>Kind,</hi> but in <hi>Degree</hi> and <hi>Meaſures.</hi> There are <hi>Diverſities</hi> of <hi>Gifts, Adminiſtrations</hi> and <hi>Operations;</hi> but the <hi>ſame Spirit.</hi> If <hi>J. Faldo</hi> hath found out another Spirit, it is a falſe one.</p>
+            <p>
+               <hi>J. Faldo</hi> would ſeem much a Schollar; but <hi>T. Hicks</hi> is more
+<pb n="4" facs="tcp:97424:3"/>
+a ſubtle one; He hides his Work in Miſts, and Thickets to co<g ref="char:EOLhyphen"/>ver his Wickedneſs. How can all the People of <hi>England,</hi> or elſe<g ref="char:EOLhyphen"/>where, where <hi>T. Hicks</hi>'s Books may be ſeen, ſee the <hi>Quakers</hi> Books alſo (whom he hath <hi>charged</hi>) to know certain, <hi>whether his Charge be true?</hi> which is a thing unlikely, if not impoſſible. Why then, what colour of Reaſon is there in the leaſt, that <hi>T. Hicks</hi> ſhould be believed at <hi>any time,</hi> or in <hi>any thing,</hi> who is found a <hi>Lyar</hi> ſo <hi>oftentimes,</hi> and in ſo <hi>many things;</hi> but all his Labour to be loſt, and as <hi>Water ſpilt upon the Ground?</hi> And ſo no ſearch after the <hi>Quakers</hi> Books need be; but <hi>T. Hicks</hi> accoun<g ref="char:EOLhyphen"/>ted <hi>vir nulla fide,</hi> a man of no Faith or Credit.</p>
+            <p>Now for me to detect a man without juſt Cauſe, were unjuſt: therefore hear, what I can ſay</p>
+            <p n="1">I. To the <hi>falſe Charges</hi> in his Book.</p>
+            <p n="1">1. <hi>The</hi> Quakers <hi>deny the Scriptures to be the Word of God.</hi> The <hi>Anſwer</hi> is in the firſt Chap. of <hi>John, In the beginning was the Word, and the Word was with God, and the Word was God; all things were made by it.</hi> But the Scriptures were not in the <hi>beginning with God,</hi> nor Scriptures never <hi>was God,</hi> nor were <hi>all things made</hi> by the Scriptures.</p>
+            <p n="2">2. <hi>They deny the Scriptures to be as the Rule of Faith and Pra<g ref="char:EOLhyphen"/>ctice to</hi> Chriſtians. <hi>Anſw.</hi> The Spirit of God was, and is the Unchangeable, Everlaſting <hi>Rule</hi> of <hi>Faith</hi> and <hi>Practice</hi> to all true Believers in all Ages. Who can underſtand the Scriptures, but by the ſame Spirit, that gave it forth? Then how can it be an infallible <hi>Rule</hi> without the Spirit to open and apply them?</p>
+            <p n="3">3. Quakers <hi>deny the Perſon of Jeſus Chriſt. Anſw.</hi> They do believe the One M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diator between God and Man, the Man Chriſt Jeſus. Where do the Scriptures (that <hi>T. Hicks</hi> calls his <hi>Rule</hi>) ſay, <hi>That Chriſt is a Perſon?</hi> or that the Son is <hi>One</hi> Per<g ref="char:EOLhyphen"/>ſon, and the holy Ghoſt <hi>Another</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſon? We own Chriſt Je<g ref="char:EOLhyphen"/>ſus born of the Vigin <hi>Mary,</hi> his Death, Reſurrection and Aſ<g ref="char:EOLhyphen"/>cenſion, and his Coming again in Spirit, who ſaid, <hi>He that is with you, ſhall be in you.</hi>
+            </p>
+            <p n="4">4. Quakers <hi>deny the Reſurrection of the Body. Anſw.</hi> They be<g ref="char:EOLhyphen"/>lieve, <hi>All that are in the Graves, ſhall come forth; they that have done good, to the Reſurrection of Life; and they that have done evil, to the Reſurrection of Condemnation, And it ſhall be raiſed a Spi<g ref="char:EOLhyphen"/>ritual Body.</hi> But that the Body of Fleſh and Blood ſhall
+<pb n="5" facs="tcp:97424:3"/>
+riſe in the ſame Form, and inherit the Kingdom of Heaven, let <hi>T. Hicks</hi> prove that, by <hi>that</hi> which he <hi>calls his Rule,</hi> if he can: but <hi>that</hi> ſaith; <hi>Thou ſoweſt not that Body which ſhall be.</hi>
+            </p>
+            <p n="5">5. <hi>They ſay, that the Light in every Man is ſufficient to guide unto Salvation, if it be obeyed.</hi> Anſw. The Light is <hi>ſufficient,</hi> whe<g ref="char:EOLhyphen"/>ther any <hi>obey</hi> it, or not: but none ſhall be <hi>ſaved</hi> by it, but they that do obey it, and yet not <hi>ſaved</hi> by <hi>obeying only.</hi>
+            </p>
+            <p n="6">6. <hi>Alſo ye maintain Perfection attainable in this Life; but what Perfection do ye mean?</hi> Anſw. 1. There is <hi>Per<g ref="char:EOLhyphen"/>fection</hi> to which nothing can be added; and ſo <hi>no Man,</hi> but <hi>God only</hi> is <hi>perfect.</hi> 2ly. There is <hi>Perfection from Sin:</hi> and ſo the <hi>firſt Adam</hi> was made perfect by <hi>Creation;</hi> and true Belie<g ref="char:EOLhyphen"/>vers are made <hi>perfect</hi> by <hi>Redemption;</hi> elſe Chriſt Jeſus the <hi>ſecond Adam,</hi> hath leſs Power to deliver Man out of Sin, then the <hi>firſt Adam</hi> had to bring him into Sin.</p>
+            <p>The moſt do not believe, there is ſuch a State as <hi>Freedom from all Sin in this Life;</hi> ſome others do believe, <hi>there is.</hi> Yet none know it, but they that are in it: nor none can come into it, but they that are led and guided by the Word and Spirit of God in them. There is <hi>Perfection from Sin</hi> and Growth in Holineſs. The Man Chriſt Jeſus was <hi>free from all Sin, and grew in Wiſdom and Stature:</hi> And ſuch as come to this State grow up in <hi>Chriſt,</hi> the <hi>Reſurrection</hi> and the <hi>Life, in</hi> the Unity, being ſet down together in the <hi>Heavenly Places,</hi> have fought a <hi>good Fight,</hi> and know the Overcoming, and enjoy a State, which the World knoweth not, but make War againſt it.</p>
+            <p n="2">II. There are many <hi>abſolute Lyes</hi> recorded in <hi>T. Hicks</hi>'s Book; I give a hint but of ſome.</p>
+            <p n="1">1. He ſaith, <hi>All things neceſſary to Salvation are contained in the Scriptures, and in no other Record in the World, either without or with<g ref="char:EOLhyphen"/>in Men. Anſw</hi> The <hi>Record</hi> of God is true, which is <hi>within</hi> men.</p>
+            <p n="2">2 He ſaith <hi>That the Light within is ſo far from being a ſufficient Guide, that it ought to be rejected.</hi> Indeed <hi>Thomas Hicks</hi> doth re<g ref="char:EOLhyphen"/>ject it; which he ought not to do.</p>
+            <p n="3">3. <hi>T. Hicks</hi> ſaith, <hi>That p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rfect Freedom from all Sin will cauſe much Pride, and Preſumption, and hinder holy Fear, and holy Watch<g ref="char:EOLhyphen"/>fulneſs, and induſtrious Endeavours to walk in a holy Courſe to the end. Anſw.</hi> If <hi>T. Hicks</hi>'s Sins and Imperfections would have
+<pb n="6" facs="tcp:97424:4"/>
+kept him from <hi>Pride</hi> and <hi>Preſumption,</hi> why then is he ſo <hi>proud</hi> and <hi>preſumptuous,</hi> hardly any like him, as his Books do manifeſt.</p>
+            <p n="3">III. Now beſides his <hi>abſolute</hi>—note ſome of <hi>T.H</hi>'s <hi>ſuſpected</hi> Lyes.</p>
+            <p n="1">1. P. 9. <hi>T. H.</hi> ſaith, <hi>A</hi> Quaker <hi>told him, that he eſteemed the Blood of Chriſt ſpilt at</hi> Jeruſalem <hi>no more, than an <g ref="char:V">Ʋ</g>nholy or Common Thing.</hi>
+            </p>
+            <p n="2">2. P. 29 <hi>T. H.</hi> ſaith, <hi>That</hi> G. Fox <hi>and</hi> R. H. <hi>ſaid, It is danger<g ref="char:EOLhyphen"/>ous for Ignorant People to read the Scriptures.</hi> Who will believe this?</p>
+            <p n="3">3. Pag. 30. <hi>T. Hicks</hi> asked <hi>J. Story, Whether the Light in eve<g ref="char:EOLhyphen"/>ry man is ſufficient to guide to Salvation? J. Story</hi> anſwered (as <hi>T. Hicks</hi> ſaith in his Book) <hi>That he did not come to be Catechiſed. Anſw.</hi> But <hi>J. Story</hi> did not anſwer <hi>three Priests</hi> ſo at the Town <hi>Hall</hi> in <hi>Marlbrough</hi> (where I dwell) before the <hi>Magistrates</hi> and a <hi>Multitude,</hi> ſixteen years ago; but anſwered ſo, that they never deſired, or not endeavoured to diſpute with <hi>Quakers</hi> ſince.</p>
+            <p n="4">4. The Ill Report, that <hi>T. Hicks</hi> hath caſt upon (as he calls) <hi>Fox, Dewsbury, Atkinſon, Whitehead, Criſp, Burroughs, How<g ref="char:EOLhyphen"/>gill, Penn,</hi> and others, is a ſuſpected Lye. Who will believe <hi>T. Hicks,</hi> but ſuch as are deceived with him by the <hi>Accuſer of the Brethren,</hi> in whoſe Steps he treads?</p>
+            <p>Now I expect, what I ſhall receive: It is likely the ſame, which <hi>T.H.</hi> ſaith in his <hi>Title</hi> page, and <hi>Poſtſcript</hi> of his <hi>Dialogue;</hi> name<g ref="char:EOLhyphen"/>ly, <hi>That the Method and Manner of the</hi> Quakers <hi>reaſoning is Scur<g ref="char:EOLhyphen"/>rilous Language:</hi> though they ſpeak Scripture-words, as to name <hi>Dog, Swine, Viper, Serpent, Lyar, &amp;c.</hi> but when the Perſons ſpok<g ref="char:EOLhyphen"/>en to are ſuch, then it is <hi>Truth,</hi> and no <hi>Scurrilous Language.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To <hi>J. Faldo,</hi> and <hi>Tho. Hicks.</hi>
+                  </head>
+                  <opener>
+                     <salute>Friends,</salute>
+                  </opener>
+                  <p>YE are both Strangers to me: I have no certain Knowledg of you, but by your Books; which when I received, and took Notice of your <hi>Waters,</hi> I found your <hi>diſ-eaſe.</hi> Your <hi>Waters</hi> are not <hi>Rivers of Living Water,</hi> which flow out of the Belly of ſuch, as believe in Chriſt, as <hi>Joh.</hi> 7, 38. nor the <hi>pure River-Water clear as Cryſtal out of the Throne of God, and of the Lamb.</hi> Rev. 22. but brackiſh, foul Water out of the foaming Sea, that caſteth up
+<pb n="7" facs="tcp:97424:4"/>
+Mire and Dirt, out of which the Beaſt roſe. <hi>Rev.</hi> 13. Waters, upon which the Whore ſits, that hath made the <hi>Nations Drunk with the Wine of her Fornications.</hi> Rev. 17 So according to theſe Scriptures your <hi>Diſ-eaſe</hi> is a <hi>Beaſtly, Drunken, Whoriſh Diſtemper.</hi> Conſider in your own hearts, and be wiſe: <hi>Paul</hi> Perſecuted that Truth, which afterward he preached. Come; I hope, your Day is not wholly over: I can aſſure you of a Remedy, if ye in Faith and Patience take it. It is this; <hi>Turn into the Light of Chriſt within you;</hi> notwithſtanding ye have ſpoken <hi>all manner of</hi> evil againſt it, ſlighted, reproach'd, and vilifi'd it; Yet come <hi>now,</hi> ſubmit to it, and follow it, it will cure all your <hi>Maladies.</hi> Ye have a ſufficient Warrant for what I tell you. <hi>Joh.</hi> 8.12. Jeſus ſaith, <hi>I am the Light of the World; he that followeth me, ſhall not abide in Darkneſs, but ſhall have the Light of Life.</hi>
+                  </p>
+                  <p>
+                     <hi>Object.</hi> But if ye ſhould <hi>object,</hi> and ſay, <hi>what is one ſheet in Anſwer to Three Books containing</hi> 556. <hi>pages?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> I did fear, ye were affected with <hi>Tautology</hi> more then <hi>Brevity,</hi> with <hi>Obſcurity</hi> more then <hi>Perſpicuity. John</hi> ſaw in the Hand of the Angel a little Book, <hi>Rev</hi> 10. I have anſwered the <hi>Sum</hi> and <hi>Subſtance</hi> of your Three Books, though brief, yet plain; <hi>particulars</hi> in them of little Value are reduceable, and compre<g ref="char:EOLhyphen"/>hended in the Summary. There is enough charged againſt you; clear your ſelves of that firſt, and make invalid my Proofs, if ye can.</p>
+                  <closer>
+                     <signed>Thomas Lawrence.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>ONe day before I came forth, I met with another Book of <hi>Tho. Hicks,</hi> intituled <hi>A Continuation</hi> of his <hi>former Dialogue between a Chriſtian and a Quaker.</hi> Why <hi>Thomas,</hi> are not <hi>Quakers</hi> Chriſtians? what! are all <hi>Pagans,</hi> but whom <hi>T. Hicks</hi> will allow the name of <hi>Chriſtian?</hi> Some <hi>Baptiſts,</hi> whoſe dwelling is in <hi>Marlbrough,</hi> ſaid in my hearing, That <hi>Maſter Hicks</hi> having a Book in his hand, written <hi>Dialogue</hi>-way, caſt it away with great diſ-like, and ſaid; <hi>It was an unjuſt way of Printing:</hi> And gave his <hi>reaſons</hi> for it: <hi>Firſt,</hi> ſaid he, The <hi>Tranſlator hath all in his own hand, and can make his Oppoſer ſay, what he pleaſes to ſerve his own
+<pb n="8" facs="tcp:97424:5" rendition="simple:additions"/>
+Turn. Secondly, he will take the weakeſt part of his Opponent to work up<g ref="char:EOLhyphen"/>on,</hi> and (as I may ſay) rather then fail, make Lyes of his own, and fence with them? as he hath done in both his Books. So inſtead of Repenting of doing that, which he then condem<g ref="char:EOLhyphen"/>ned, he Continueth in his Sin after Conviction, as if he were wholly hardened, regarding neither Juſtice, nor Honeſty, nor his Account at the Day of Judgment, when he muſt anſwer for all his Deeds done in the Body. He ſaith, <hi>That Printing Dialogue way is unjuſt,</hi> and hath given his Reaſons; yet hath printed two <hi>Dialogues</hi> himſelf: and ſo hath done the ſame thing, for which he hath condemned another: and therefore he is inexcuſable, <hi>Rom</hi> 2. So to conclude, he hath condemn'd all his own Writings; what need any more Proof, or Arguments againſt him?</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>Friends,</hi> J. Faldo <hi>and</hi> T. Hicks,</salute>
+                  </opener>
+                  <p>I wonder, that Men ſo Learned and Eloquent, as ye would ſeem to be, and would be accounted <hi>ſolid</hi> and <hi>leading</hi> Men, ſhould be ſo much in the vain <hi>Jangling, Contentions,</hi> and <hi>needleſs Repetitions:</hi> In the tenth part of the Paper you might have written more, and to better purpoſe. Though <hi>Quaking</hi> and <hi>Trembling</hi> is that, which ſome of God's dear Servants have known, yet who hath ever ſaid, <hi>That</hi> Quaker <hi>or</hi> Quakeriſm <hi>is</hi> Chriſtianity? or in what <hi>Tongue</hi> or <hi>Language</hi> have ye found the words? Ye fight againſt leſs then a Shaddow, a <hi>Figment</hi> of your own, as <hi>T. Hicks</hi> calls. I'le tell you, from whence your words are? from the Beaſt, that roſe out of the Sea; from the blind World, that lies in Wickedneſs; from the Stock of <hi>Iſhmael,</hi> who are Mockers, born after the Fleſh; from the De<g ref="char:EOLhyphen"/>vil, the <hi>Father</hi> of <hi>Lyes.</hi> Now take notice of your <hi>Original,</hi> and what your <hi>State</hi> and <hi>Condition</hi> is, whilſt ye ſtand where ye are. If I had had more time, I know not, that I ſhould have writ<g ref="char:EOLhyphen"/>ten any more. There is enough charged againſt you already, an<g ref="char:EOLhyphen"/>ſwer that firſt, if ye can. There be ſome Books printed al<g ref="char:EOLhyphen"/>ready, and ſome to print to lay open your Weakneſs more at large: Ye had better proceed no further, leſt ye be found Fighters againſt God.</p>
+                  <closer>
+                     <signed>T. L.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
